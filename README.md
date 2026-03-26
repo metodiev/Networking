@@ -1,7 +1,7 @@
 # Networking
 Networking Mastery System 
 
-0. Foundations (30 topics)
+## 0. Foundations (30 topics)
 What is networking
 OSI model vs TCP/IP
 Encapsulation
@@ -33,7 +33,7 @@ Debugging mindset
 Reading RFCs
 Tools overview
 
- 1. Physical Layer (25 topics)
+## 1. Physical Layer (25 topics)
 Electrical signaling
 Ethernet cables (Cat5/6/7/8)
 Fiber optics basics
@@ -59,7 +59,8 @@ Physical topology
 Latency sources
 Cable testing
 Hardware failures
-🔗 2. Data Link Layer (45 topics)
+
+## 2. Data Link Layer (45 topics)
 Ethernet frame structure
 MAC addressing
 ARP protocol
@@ -106,7 +107,7 @@ Link failures
 Frame drops
 Switch latency
 
-🌍 3. Network Layer (70 topics)
+## 3. Network Layer (70 topics)
 IP packet structure
 IPv4 addressing
 IPv6 basics
@@ -175,7 +176,7 @@ DHCP relay
 DHCP attacks
 Network scanning
 
- 4. Transport Layer (80 topics)
+## 4. Transport Layer (80 topics)
 TCP Deep Dive (major chunk)
 TCP segment structure
 3-way handshake
@@ -251,7 +252,7 @@ Custom protocols over UDP
 QUIC vs TCP
 HTTP/3 basics
 
- 5. Application Layer (90 topics) 
+## 5. Application Layer (90 topics) 
 DNS (huge section)
 DNS basics
 Recursive vs iterative
@@ -288,7 +289,7 @@ Cache poisoning
 DNS amplification attacks
 
 
-6. Observability & Debugging (40 topics)
+## 6. Observability & Debugging (40 topics)
 tcpdump basics
 Advanced tcpdump filters
 Wireshark deep dive
@@ -329,7 +330,7 @@ Load testing
 Debugging playbooks
 Runbooks
 
- 7. Security (40 topics)
+## 7. Security (40 topics)
 Firewalls
 iptables
 nftables
@@ -371,7 +372,7 @@ Istio basics
 Linkerd basics
 
 
-8. Cloud & Distributed Systems (60 topics)
+## 8. Cloud & Distributed Systems (60 topics)
 VPC design
 Subnets
 Routing tables (cloud)
