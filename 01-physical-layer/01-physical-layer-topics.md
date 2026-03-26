@@ -89,7 +89,7 @@ This module focuses on how bits are physically transmitted, what can go wrong, a
 
 
 
-### 🧠 Network Interface Hardware
+### Network Interface Hardware
 
 - Network Interface Card (NIC)
 - MAC address burning
@@ -101,9 +101,9 @@ This module focuses on how bits are physically transmitted, what can go wrong, a
 - Ring buffers
 - Driver basics
 
----
 
-### 🔁 Physical Topologies & Devices
+
+### Physical Topologies & Devices
 
 - Bus topology
 - Star topology
