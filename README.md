@@ -2,36 +2,36 @@
 Networking Mastery System 
 
 ## 0. Foundations (30 topics)
-  What is networking
-  OSI model vs TCP/IP
-  Encapsulation
-  Packet vs frame vs segment
-  Bandwidth vs latency
-  Throughput vs goodput
-  Jitter
-  MTU
-  MSS
-  Endianness
-  Binary & hex in networking
-  Checksums basics
-  RFC process
-  IETF overview
-  Network topologies
-  Client-server model
-  Peer-to-peer
-  Circuit vs packet switching
-  Internet architecture
-  Autonomous systems
-  SLA basics
-  QoS basics
-  Flow vs connection
-  Half-open connections
-  Statefulness vs statelessness
-  Networking myths
-  Real-world packet journey
-  Debugging mindset
-  Reading RFCs
-  Tools overview
+- What is networking
+- OSI model vs TCP/IP
+- Encapsulation
+- Packet vs frame vs segment
+- Bandwidth vs latency
+- Throughput vs goodput
+- Jitter
+- MTU
+- MSS
+- Endianness
+- Binary & hex in networking
+- Checksums basics
+- RFC process
+- IETF overview
+- Network topologies
+- Client-server model
+- Peer-to-peer
+- Circuit vs packet switching
+- Internet architecture
+- Autonomous systems
+- SLA basics
+- QoS basics
+- Flow vs connection
+- Half-open connections
+- Statefulness vs statelessness
+- Networking myths
+- Real-world packet journey
+- Debugging mindset
+- Reading RFCs
+- Tools overview
 
 ## 1. Physical Layer (25 topics)
   Electrical signaling
