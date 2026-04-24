@@ -61,15 +61,18 @@ Think of networking like a postal system:
 
  ```mermaid
 flowchart TD
-    A[7. Application Layer\n(User Interfaces, HTTP, FTP)]
-    B[6. Presentation Layer\n(Encryption, Compression)]
-    C[5. Session Layer\n(Session Management)]
-    D[4. Transport Layer\n(TCP / UDP)]
-    E[3. Network Layer\n(IP Addressing, Routing)]
-    F[2. Data Link Layer\n(MAC Address, Switching)]
-    G[1. Physical Layer\n(Cables, Signals)]
+   A["7. Application<br>HTTP, FTP"]
+   B["6. Presentation<br>Encryption"]
+   C["5. Session<br>Sessions"]
+   D["4. Transport<br>TCP / UDP"]
+   E["3. Network<br>IP Routing"]
+   F["2. Data Link<br>MAC"]
+   G["1. Physical<br>Signals"]
 
-    A --> B --> C --> D --> E --> F --> G
+   A --> B --> C --> D --> E --> F --> G
+
+   classDef layer fill:#1e293b,color:#fff,stroke:#38bdf8
+   class A,B,C,D,E,F,G layer
  ```
 
  ### TCP/IP Model (Practical Version)
